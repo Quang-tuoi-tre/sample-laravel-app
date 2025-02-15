@@ -14,5 +14,5 @@ plt.fill(x, y, color='red', alpha=0.6)
 # Định dạng
 plt.title('Hình Trái Tim')
 plt.axis('equal')
-plt.axis('off')
+plt.axis('offs')
 plt.show()

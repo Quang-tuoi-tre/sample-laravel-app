@@ -87,6 +87,10 @@
         <a href="#" class="forgot-password">Quên mật khẩu?</a>
     </div>
 
+<?php 
+        $name=4;
+?>
+
     <?php
         // Xử lý form đăng nhập (phần PHP)
         if ($_SERVER["REQUEST_METHOD"] == "POST") {

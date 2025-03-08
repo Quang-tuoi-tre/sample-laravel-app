@@ -12,6 +12,18 @@ else if ($diem >= 3.5) $xeploai = "Yếu";
 else $xeploai = "Kém";
 
 
+// $a = array(4,6,8);
+// for($i=0; $i,count($a);$i++){
+//     echo $a[$i];
+// }
+
+
+
+?>
+
+<?php 
+    $a = array('ac'=> 1,2,3,4);
+    
 ?>
 
 
